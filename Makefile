@@ -1,3 +1,3 @@
 zip:
-	zip gpt-chrome-1.1.zip manifest.json *.js icon*.png
+	zip gpt-chrome-latest.zip manifest.json *.js icon*.png
 
